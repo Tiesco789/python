@@ -46,9 +46,39 @@ print(int('1'), type(int('1')))
 print(type(float('1') + 1))
 print(bool(' '))
 print(str(11) + 'b')
-"""
-
 nome = "Luiz"
 idade = 23
 formato = f'{nome} tem {idade:.2f} anos'
 print(formato)
+
+conta_1 = (1 + int(0.5 + 0.5)) ** (5 + 5)
+print(conta_1)
+
+nome = 'Franccesco Bordon'
+altura = 1.83
+peso = 86.60
+imc = peso / (altura ** 2)
+linha_1 = f'{nome} tem {altura:.2f} de altura'
+linha_2 = f'pesa {peso} quilos e seu imc é de {imc:.2f}'
+print(linha_1)
+print(linha_2)
+
+a = 'AAAAA'
+b = 'BBBBB'
+c = 1.1
+string = 'a={nome1} b={nome2} c={nome3:.2f} '
+formato = string.format(nome1=a, nome2=b, nome3=c)
+print(formato)
+
+idade = input("Qual a sua idade: ")
+print(f'o seu nome é {idade}')
+"""
+
+entrada = input('Você quer "entrar" ou "sair"? ')
+
+if entrada == "entrar":
+    print('Você entrou no sistema')
+elif entrada == "sair":
+    print('Você saiu do sistema')
+else:
+    print('Você não digitou nem "entrar" e nem "sair"')
