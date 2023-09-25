@@ -72,8 +72,6 @@ print(formato)
 
 idade = input("Qual a sua idade: ")
 print(f'o seu nome é {idade}')
-"""
-
 entrada = input('Você quer "entrar" ou "sair"? ')
 
 if entrada == "entrar":
@@ -82,3 +80,38 @@ elif entrada == "sair":
     print('Você saiu do sistema')
 else:
     print('Você não digitou nem "entrar" e nem "sair"')
+
+
+print('Fora dos blocos')
+
+condicao = True
+if condicao:
+    print('Este é o código do if')
+else:
+    print('')
+
+print(1)
+
+
+primeiro_valor = input('Digite um valor: ')
+segundo_valor = input('Digite outro valor: ')
+
+if primeiro_valor >= segundo_valor:
+    print(f'o {primeiro_valor=} é maior ou igual ao {segundo_valor=}')
+else:
+    print(f'o {segundo_valor=} é maior ou igual ao {primeiro_valor=}')
+
+
+entrada = input('[E]ntrar [S]air: ')
+senha_digitada = input('Senha: ')
+
+senha_permitida = '123456'
+
+# If condição
+if entrada == 'E' and senha_digitada == senha_permitida:
+    print('Entrar')
+else:
+    print('Sair')
+"""
+if 1 and 1:
+    print(True and 1 and False)
