@@ -41,11 +41,11 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Images
-*.png
-*.jpg
-*.jpeg
-*.gif
-*.webp
+./*/*.png
+./*/*.jpg
+./*/*.jpeg
+./*/*.gif
+./*/*.webp
 
 # Unit test / coverage reports
 htmlcov/
