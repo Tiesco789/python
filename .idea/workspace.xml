@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43e53819-56c4-4be3-91d5-0746b21618fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/beecrowd/1000.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/1013.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/qrcode.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
